@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+# 안녕하세요!
 
-### More Information
+## Seunghoon Shin Github Blog 입니다
 
-A place to include any other types of information that you'd like to include about yourself.
+### 기타 문의는 이메일로 연락 주세요.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[liante0904@gmail.com](mailto:liante0904@gmail.com)
