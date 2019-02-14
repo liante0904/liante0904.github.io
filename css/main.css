@@ -229,15 +229,16 @@ body * {
     padding-top: 10px;
 }
 
-.single__article:first-letter {
+/* .single__article:first-letter {
     float: left;
     font-size: 4.5em;
     line-height: 30px;
     padding: 0 8px 0 0;
-}
+} */
 
 #single p {
-    margin-top: 20px;
+    margin-top: 25px;
+    margin-bottom: 25px;
 }
 
 #footer {
